@@ -39,11 +39,19 @@
 
 ### Движки и инструменты
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />
-  <img src="assets/Unreal_Engine-Logo.wine.png" alt="Unreal_Engine" height="100" />
-  <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />
+
+  <!-- Верхний ряд: 1 иконка -->
+  <img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="60" /><br/><br/>
+
+  <!-- Средний ряд: 2 иконки -->
+  <img src="assets/Unreal_Engine-Logo.wine.png" alt="Unreal Engine" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="60" /><br/><br/>
+
+  <!-- Нижний ряд: 3 иконки (добавил Vulkan — идеально под твоё изучение OpenGL/Vulkan) -->
+  <img src="https://logowik.com/content/uploads/images/vulkan8914.jpg" alt="Vulkan" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="60" />
+
 </div>
 
 <br/>
