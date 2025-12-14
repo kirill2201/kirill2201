@@ -42,23 +42,24 @@
 
 <table width="100%">
   <tr>
-    <!-- Левая колонка: свободное размещение иконок (без строгой пирамидки) -->
+    <!-- Левая колонка: иконки в 3 ряда, раскиданы "как звёзды на небе" (рандомные отступы для естественного, красивого вида) -->
     <td align="left" width="50%">
       <div align="left">
-        <img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="60" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="assets/ue5c.png" alt="Unreal Engine" height="60" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="60" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://logowik.com/content/uploads/images/vulkan8914.jpg" alt="Vulkan" height="60" />
-        <br/>
-        <br/>
-        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="60" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <!-- Можно добавить ещё иконки сюда, они просто пойдут дальше по строке или перенесутся -->
+        <!-- Ряд 1 -->
+<img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="60" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/ue5c.png" alt="Unreal Engine" height="60" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://logowik.com/content/uploads/images/vulkan8914.jpg" alt="Vulkan" height="60" /><br/><br/>
+        <!-- Ряд 2 -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="60" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" /><br/><br/>
+
+        <!-- Ряд 3 -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="60" />
       </div>
     </td>
     <!-- Правая колонка: lo-fi coding GIF -->
@@ -67,6 +68,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 </div>
 
