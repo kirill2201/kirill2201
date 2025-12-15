@@ -32,41 +32,11 @@
 
 ## Мой стек технологий
 
-### Движки и инструменты
+### Языки программирования
 <div align="center">
-
-<table width="100%">
-  <tr>
-    <!-- Левая колонка: иконки в 3 ряда, раскиданы "как звёзды на небе" -->
-    <td align="left" width="50%">
-      <div align="left">
-        <strong>Движки</strong><br/>
-        <!-- Ряд 1 -->
-<img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="60" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/ue5c.png" alt="Unreal Engine" height="60" /><br/><br/>
-
-        <!-- Ряд 2 -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="60" /><br/><br/>
-
-        <strong>Инструменты и технологии</strong><br/>
-        <!-- Ряд 3 -->
-<img src="https://logowik.com/content/uploads/images/vulkan8914.jpg" alt="Vulkan" height="60" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="60" />
-      </div>
-    </td>
-    
-    <!-- Правая колонка: lo-fi coding GIF -->
-    <td align="right" width="50%">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/1*rjeBlCZl652pWfyR_dVYJQ.gif" alt="Lo-fi coding vibes" width="400" />
-    </td>
-  </tr>
-</table>
-
+&nbsp;&nbsp;<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+&nbsp;&nbsp;<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+&nbsp;&nbsp;<img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
 </div>
 
 ### Движки и инструменты
