@@ -34,9 +34,19 @@
 
 ### Языки программирования
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+
+  <!-- Основные языки -->
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="60" /><br/><br/>
+
+  <!-- Изучаю сейчас (графика) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/OpenGL_Logo.svg" alt="OpenGL" height="50" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.khronos.org/assets/images/api_logos/vulkan.svg" alt="Vulkan" height="50" />
+
 </div>
 
 ### Движки и инструменты
