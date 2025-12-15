@@ -76,14 +76,21 @@
 
 ## Платформы и достижения
 <div align="center">
+
+  <!-- Codewars -->
   <a href="https://www.codewars.com/users/kirill2201">
     <img src="https://www.codewars.com/users/kirill2201/badges/small" alt="Codewars Badge" />
   </a>
-  <!-- LeetCode Stats Card (основной вариант) -->
-  <img src="https://leetcard.jacoblin.cool/ZKugizakID?theme=dark&font=Noto%20Sans%20Sharada&ext=heatmap" alt="LeetCode Stats" height="200" />
-  
-  <!-- Альтернатива: более компактная карточка с другой темой -->
-  <!-- <img src="https://leetcard.jacoblin.cool/kirill2201?theme=nord&ext=heatmap" alt="LeetCode Stats with Heatmap" /> -->
+  <br/>
+  <strong>Codewars</strong> — мой прогресс в решении ката и ранге<br/><br/><br/>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/ZKugizakID/">
+    <img src="https://leetcard.jacoblin.cool/ZKugizakID?theme=dark&font=Noto%20Sans%20Sharada&ext=heatmap" alt="LeetCode Stats" height="200" />
+  </a>
+  <br/>
+  <strong>LeetCode</strong> — решённые задачи, рейтинг и heatmap активности
+
 </div>
 
 <br/>
