@@ -46,21 +46,21 @@
   <tr>
     <!-- Левая колонка: иконки в 3 ряда, раскиданы "как звёзды на небе" (рандомные отступы для естественного, красивого вида) -->
 <td width="50%" style="vertical-align: top; padding: 20px;">
-  <div style="display: flex; flex-direction: column; gap: 40px; align-items: center;">
-    <!-- Ряд 1: 3 иконки -->
+  <div style="display: flex; flex-direction: column; gap: 50px; align-items: center;">
+    <!-- Верх пирамидки: 1 иконка (Blender) -->
+    <div style="display: flex; justify-content: center; width: 100%;">
+      <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="60" />
+    </div>
+    <!-- Средний ряд: 2 иконки (.NET и Docker) -->
+    <div style="display: flex; justify-content: space-evenly; align-items: center; width: 80%;">
+      <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="60" />
+      <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" />
+    </div>
+    <!-- Нижний ряд: 3 иконки (Unity, Unreal Engine, Vulkan) -->
     <div style="display: flex; justify-content: space-evenly; align-items: center; width: 100%;">
       <img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="60" />
       <img src="assets/ue5c.png" alt="Unreal Engine" height="60" />
       <img src="https://logowik.com/content/uploads/images/vulkan8914.jpg" alt="Vulkan" height="60" />
-    </div>
-    <!-- Ряд 2: 2 иконки -->
-    <div style="display: flex; justify-content: space-evenly; align-items: center; width: 100%;">
-      <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="60" />
-      <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" />
-    </div>
-    <!-- Ряд 3: 1 иконка -->
-    <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-      <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="60" />
     </div>
     
   </div>
