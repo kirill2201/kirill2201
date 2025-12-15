@@ -79,6 +79,11 @@
   <a href="https://www.codewars.com/users/kirill2201">
     <img src="https://www.codewars.com/users/kirill2201/badges/small" alt="Codewars Badge" />
   </a>
+  <!-- LeetCode Stats Card (основной вариант) -->
+  <img src="https://leetcard.jacoblin.cool/ZKugizakID?theme=dark&font=Roboto" alt="LeetCode Stats" height="200" />
+  
+  <!-- Альтернатива: более компактная карточка с другой темой -->
+  <!-- <img src="https://leetcard.jacoblin.cool/kirill2201?theme=nord&ext=heatmap" alt="LeetCode Stats with Heatmap" /> -->
 </div>
 
 <br/>
